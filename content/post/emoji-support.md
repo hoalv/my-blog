@@ -6,6 +6,10 @@ description = "Guide to emoji usage in Hugo"
 tags = [
     "emoji",
 ]
+categories = [
+    "markdown"
+]
+series = ["Themes Guide"]
 +++
 
 Emoji can be enabled in a Hugo project in a number of ways. 
